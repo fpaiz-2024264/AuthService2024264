@@ -1,0 +1,11 @@
+C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Application\bin\Debug\net8.0\AuthServiceIN6BV.Application.deps.json
+C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Application\bin\Debug\net8.0\AuthServiceIN6BV.Application.dll
+C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Application\bin\Debug\net8.0\AuthServiceIN6BV.Application.pdb
+C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Application\obj\Debug\net8.0\AuthServiceIN6BV.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Application\obj\Debug\net8.0\AuthServiceIN6BV.Application.AssemblyInfoInputs.cache
+C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Application\obj\Debug\net8.0\AuthServiceIN6BV.Application.AssemblyInfo.cs
+C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Application\obj\Debug\net8.0\AuthServiceIN6BV.Application.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Application\obj\Debug\net8.0\AuthServiceIN6BV.Application.dll
+C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Application\obj\Debug\net8.0\refint\AuthServiceIN6BV.Application.dll
+C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Application\obj\Debug\net8.0\AuthServiceIN6BV.Application.pdb
+C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Application\obj\Debug\net8.0\ref\AuthServiceIN6BV.Application.dll
