@@ -1,0 +1,18 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgres:16
+    container_name: AuthServiceIN6BV_postgres
+    restart: always
+    environment:
+      POSTGRES_DB: KinalSportsIN6BV
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: admin
+    ports:
+      - "5445:5432"
+    volumes:
+      - postgres_data:/var/lib/postgressql/postgres_data
+
+volumes:
+  postgres_data:
