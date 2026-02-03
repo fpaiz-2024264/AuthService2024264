@@ -15,3 +15,63 @@ C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Persisten
 C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\refint\AuthServiceIN6BV.Persistence.dll
 C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.pdb
 C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\ref\AuthServiceIN6BV.Persistence.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Persistence.deps.json
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Persistence.runtimeconfig.json
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Persistence.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Persistence.pdb
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Application.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Domain.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Domain.pdb
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Application.pdb
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.csproj.AssemblyReference.cache
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.AssemblyInfoInputs.cache
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.AssemblyInfo.cs
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.csproj.CoreCompileInputs.cache
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.sourcelink.json
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServ.9FF9A057.Up2Date
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\refint\AuthServiceIN6BV.Persistence.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.pdb
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.genruntimeconfig.cache
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\ref\AuthServiceIN6BV.Persistence.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Persistence.deps.json
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Persistence.runtimeconfig.json
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Persistence.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Persistence.pdb
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Application.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Domain.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Domain.pdb
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Application.pdb
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.csproj.AssemblyReference.cache
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.AssemblyInfoInputs.cache
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.AssemblyInfo.cs
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.sourcelink.json
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServ.9FF9A057.Up2Date
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\refint\AuthServiceIN6BV.Persistence.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.pdb
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.genruntimeconfig.cache
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\ref\AuthServiceIN6BV.Persistence.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Persistence.deps.json
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Persistence.runtimeconfig.json
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Persistence.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Persistence.pdb
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Application.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Domain.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Domain.pdb
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\bin\Debug\net8.0\AuthServiceIN6BV.Application.pdb
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.csproj.AssemblyReference.cache
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.AssemblyInfoInputs.cache
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.AssemblyInfo.cs
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.csproj.CoreCompileInputs.cache
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.sourcelink.json
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServ.9FF9A057.Up2Date
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\refint\AuthServiceIN6BV.Persistence.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.pdb
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\AuthServiceIN6BV.Persistence.genruntimeconfig.cache
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Persistence\obj\Debug\net8.0\ref\AuthServiceIN6BV.Persistence.dll

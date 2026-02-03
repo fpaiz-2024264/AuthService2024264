@@ -9,3 +9,39 @@ C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Domain\ob
 C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\refint\AuthServiceIN6BV.Domain.dll
 C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.pdb
 C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\ref\AuthServiceIN6BV.Domain.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\bin\Debug\net8.0\AuthServiceIN6BV.Domain.deps.json
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\bin\Debug\net8.0\AuthServiceIN6BV.Domain.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\bin\Debug\net8.0\AuthServiceIN6BV.Domain.pdb
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.AssemblyInfoInputs.cache
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.AssemblyInfo.cs
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.csproj.CoreCompileInputs.cache
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.sourcelink.json
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\refint\AuthServiceIN6BV.Domain.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.pdb
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\ref\AuthServiceIN6BV.Domain.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\bin\Debug\net8.0\AuthServiceIN6BV.Domain.deps.json
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\bin\Debug\net8.0\AuthServiceIN6BV.Domain.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\bin\Debug\net8.0\AuthServiceIN6BV.Domain.pdb
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.AssemblyInfoInputs.cache
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.AssemblyInfo.cs
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.csproj.CoreCompileInputs.cache
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.sourcelink.json
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\refint\AuthServiceIN6BV.Domain.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.pdb
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\ref\AuthServiceIN6BV.Domain.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Domain\bin\Debug\net8.0\AuthServiceIN6BV.Domain.deps.json
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Domain\bin\Debug\net8.0\AuthServiceIN6BV.Domain.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Domain\bin\Debug\net8.0\AuthServiceIN6BV.Domain.pdb
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.AssemblyInfoInputs.cache
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.AssemblyInfo.cs
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.csproj.CoreCompileInputs.cache
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.sourcelink.json
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\refint\AuthServiceIN6BV.Domain.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\AuthServiceIN6BV.Domain.pdb
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Domain\obj\Debug\net8.0\ref\AuthServiceIN6BV.Domain.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Api\\AuthServiceIN6BV.Api.csproj": {}
+    "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Api\\AuthServiceIN6BV.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Api\\AuthServiceIN6BV.Api.csproj": {
+    "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Api\\AuthServiceIN6BV.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Api\\AuthServiceIN6BV.Api.csproj",
+        "projectUniqueName": "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Api\\AuthServiceIN6BV.Api.csproj",
         "projectName": "AuthServiceIN6BV.Api",
-        "projectPath": "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Api\\AuthServiceIN6BV.Api.csproj",
-        "packagesPath": "C:\\Users\\Informatica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Api\\obj\\",
+        "projectPath": "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Api\\AuthServiceIN6BV.Api.csproj",
+        "packagesPath": "C:\\Users\\stevp\\.nuget\\packages\\",
+        "outputPath": "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Informatica\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\stevp\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Application\\AuthServiceIN6BV.Application.csproj": {
-                "projectPath": "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Application\\AuthServiceIN6BV.Application.csproj"
+              "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Application\\AuthServiceIN6BV.Application.csproj": {
+                "projectPath": "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Application\\AuthServiceIN6BV.Application.csproj"
               },
-              "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Persistence\\AuthServiceIN6BV.Persistence.csproj": {
-                "projectPath": "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Persistence\\AuthServiceIN6BV.Persistence.csproj"
+              "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Persistence\\AuthServiceIN6BV.Persistence.csproj": {
+                "projectPath": "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Persistence\\AuthServiceIN6BV.Persistence.csproj"
               }
             }
           }
@@ -50,9 +50,21 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "EFCore.NamingConventions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.22, )"
+            },
+            "NetEscapades.AspNetCore.SecurityHeaders": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[10.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -78,21 +90,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Application\\AuthServiceIN6BV.Application.csproj": {
+    "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Application\\AuthServiceIN6BV.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Application\\AuthServiceIN6BV.Application.csproj",
+        "projectUniqueName": "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Application\\AuthServiceIN6BV.Application.csproj",
         "projectName": "AuthServiceIN6BV.Application",
-        "projectPath": "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Application\\AuthServiceIN6BV.Application.csproj",
-        "packagesPath": "C:\\Users\\Informatica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Application\\obj\\",
+        "projectPath": "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Application\\AuthServiceIN6BV.Application.csproj",
+        "packagesPath": "C:\\Users\\stevp\\.nuget\\packages\\",
+        "outputPath": "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Informatica\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\stevp\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -104,8 +116,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Domain\\AuthServiceIN6BV.Domain.csproj": {
-                "projectPath": "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Domain\\AuthServiceIN6BV.Domain.csproj"
+              "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Domain\\AuthServiceIN6BV.Domain.csproj": {
+                "projectPath": "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Domain\\AuthServiceIN6BV.Domain.csproj"
               }
             }
           }
@@ -125,6 +137,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Konscious.Security.Cryptography.Argon2": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
             "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
               "version": "[9.0.9, )"
@@ -146,21 +162,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Domain\\AuthServiceIN6BV.Domain.csproj": {
+    "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Domain\\AuthServiceIN6BV.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Domain\\AuthServiceIN6BV.Domain.csproj",
+        "projectUniqueName": "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Domain\\AuthServiceIN6BV.Domain.csproj",
         "projectName": "AuthServiceIN6BV.Domain",
-        "projectPath": "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Domain\\AuthServiceIN6BV.Domain.csproj",
-        "packagesPath": "C:\\Users\\Informatica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Domain\\obj\\",
+        "projectPath": "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Domain\\AuthServiceIN6BV.Domain.csproj",
+        "packagesPath": "C:\\Users\\stevp\\.nuget\\packages\\",
+        "outputPath": "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Informatica\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\stevp\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -204,21 +220,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Persistence\\AuthServiceIN6BV.Persistence.csproj": {
+    "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Persistence\\AuthServiceIN6BV.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Persistence\\AuthServiceIN6BV.Persistence.csproj",
+        "projectUniqueName": "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Persistence\\AuthServiceIN6BV.Persistence.csproj",
         "projectName": "AuthServiceIN6BV.Persistence",
-        "projectPath": "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Persistence\\AuthServiceIN6BV.Persistence.csproj",
-        "packagesPath": "C:\\Users\\Informatica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Persistence\\obj\\",
+        "projectPath": "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Persistence\\AuthServiceIN6BV.Persistence.csproj",
+        "packagesPath": "C:\\Users\\stevp\\.nuget\\packages\\",
+        "outputPath": "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Informatica\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\stevp\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -230,11 +246,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Application\\AuthServiceIN6BV.Application.csproj": {
-                "projectPath": "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Application\\AuthServiceIN6BV.Application.csproj"
+              "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Application\\AuthServiceIN6BV.Application.csproj": {
+                "projectPath": "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Application\\AuthServiceIN6BV.Application.csproj"
               },
-              "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Domain\\AuthServiceIN6BV.Domain.csproj": {
-                "projectPath": "C:\\Users\\Informatica\\Documents\\AuthService2024250\\src\\AuthServiceIN6BV.Domain\\AuthServiceIN6BV.Domain.csproj"
+              "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Domain\\AuthServiceIN6BV.Domain.csproj": {
+                "projectPath": "C:\\AuthServiceIN6BV\\AuthService2024264\\src\\AuthServiceIN6BV.Domain\\AuthServiceIN6BV.Domain.csproj"
               }
             }
           }
@@ -253,6 +269,28 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -269,7 +307,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.417/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

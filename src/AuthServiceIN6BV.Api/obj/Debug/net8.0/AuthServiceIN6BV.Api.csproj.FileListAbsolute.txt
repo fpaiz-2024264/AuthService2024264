@@ -37,3 +37,237 @@ C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Api\obj\D
 C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.pdb
 C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.genruntimeconfig.cache
 C:\Users\Informatica\Documents\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\ref\AuthServiceIN6BV.Api.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\appsettings.json
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Api.exe
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Api.deps.json
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Api.runtimeconfig.json
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Api.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Api.pdb
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\EFCore.NamingConventions.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Konscious.Security.Cryptography.Argon2.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Konscious.Security.Cryptography.Blake2.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\NetEscapades.AspNetCore.SecurityHeaders.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Npgsql.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Application.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Domain.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Persistence.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Application.pdb
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Persistence.pdb
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Domain.pdb
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.csproj.AssemblyReference.cache
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.AssemblyInfoInputs.cache
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.AssemblyInfo.cs
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.csproj.CoreCompileInputs.cache
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.sourcelink.json
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets\msbuild.AuthServiceIN6BV.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.AuthServiceIN6BV.Api.props
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuthServiceIN6BV.Api.props
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuthServiceIN6BV.Api.props
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\scopedcss\bundle\AuthServiceIN6BV.Api.styles.css
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServ.468FC023.Up2Date
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\refint\AuthServiceIN6BV.Api.dll
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.pdb
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.genruntimeconfig.cache
+C:\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\ref\AuthServiceIN6BV.Api.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Api.exe
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Api.deps.json
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Api.runtimeconfig.json
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Api.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Api.pdb
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\EFCore.NamingConventions.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Konscious.Security.Cryptography.Argon2.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Konscious.Security.Cryptography.Blake2.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\NetEscapades.AspNetCore.SecurityHeaders.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Application.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Domain.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Persistence.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Application.pdb
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Persistence.pdb
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Domain.pdb
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.csproj.AssemblyReference.cache
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.AssemblyInfoInputs.cache
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.AssemblyInfo.cs
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.csproj.CoreCompileInputs.cache
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.sourcelink.json
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets\msbuild.AuthServiceIN6BV.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.AuthServiceIN6BV.Api.props
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuthServiceIN6BV.Api.props
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuthServiceIN6BV.Api.props
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\scopedcss\bundle\AuthServiceIN6BV.Api.styles.css
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServ.468FC023.Up2Date
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\refint\AuthServiceIN6BV.Api.dll
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.pdb
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.genruntimeconfig.cache
+C:\Users\stevp\Downloads\AuthService2024250 5\AuthService2024250\AuthService2024250\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\ref\AuthServiceIN6BV.Api.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\appsettings.json
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Api.exe
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Api.deps.json
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Api.runtimeconfig.json
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Api.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Api.pdb
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\EFCore.NamingConventions.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Konscious.Security.Cryptography.Argon2.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Konscious.Security.Cryptography.Blake2.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\NetEscapades.AspNetCore.SecurityHeaders.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Npgsql.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Application.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Domain.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Persistence.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Application.pdb
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Persistence.pdb
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\bin\Debug\net8.0\AuthServiceIN6BV.Domain.pdb
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.csproj.AssemblyReference.cache
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.AssemblyInfoInputs.cache
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.AssemblyInfo.cs
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.csproj.CoreCompileInputs.cache
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.sourcelink.json
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets\msbuild.AuthServiceIN6BV.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.AuthServiceIN6BV.Api.props
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuthServiceIN6BV.Api.props
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuthServiceIN6BV.Api.props
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\scopedcss\bundle\AuthServiceIN6BV.Api.styles.css
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServ.468FC023.Up2Date
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\refint\AuthServiceIN6BV.Api.dll
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.pdb
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\AuthServiceIN6BV.Api.genruntimeconfig.cache
+C:\AuthServiceIN6BV\AuthService2024264\src\AuthServiceIN6BV.Api\obj\Debug\net8.0\ref\AuthServiceIN6BV.Api.dll

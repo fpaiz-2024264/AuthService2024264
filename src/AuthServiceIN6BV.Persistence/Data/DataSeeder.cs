@@ -1,0 +1,85 @@
+using AuthServiceIN6BV.Domain.Entities;
+using AuthServiceIN6BV.Application.Services;
+using AuthServiceIN6BV.Domain.Constants;
+using Microsoft.EntityFrameworkCore;
+
+namespace AuthServiceIN6BV.Persistence.Data;
+
+//Administrador por defecto
+public static class DataSeeder
+{
+    public static async Task SeedAsync(ApplicationDbContext context)
+    {
+        //Si existe almenos un registro en la tabla de roles
+        if (!context.Roles.Any())
+        {
+            var roles = new List<Role>
+            {
+                new()
+                {
+                    Id = UuidGenerator.GenerateRoleId(),
+                        Name = RoleContstants.ADMIN_ROLE
+                },
+                new()
+                {
+                    Id = UuidGenerator.GenerateRoleId(),
+                        Name = RoleContstants.USER_ROLE
+                }
+            };
+            await context.Roles.AddRangeAsync(roles);
+            await context.SaveChangesAsync();
+        }
+
+        //Usuario por defecto
+        if (!await context.Users.AnyAsync())
+        {
+            var adminRole = await context.Roles.FirstOrDefaultAsync(r => r.Name == RoleContstants.ADMIN_ROLE);
+            if(adminRole != null)
+            {
+                var passwordHasher = new PasswordHashService();
+                var profileId = UuidGenerator.GenerateUserId();
+                var emailId = UuidGenerator.GenerateUserId();
+                var userRoleId = UuidGenerator.GenerateUserId();
+                var userId = UuidGenerator.GenerateUserId();
+
+                var adminUser =  new User
+                {
+                    Id = userId,
+                    Name = "Admin",
+                    Surname = "User",
+                    Username = "admin",
+                    Email = "admin@ksports.local",
+                    Password = passwordHasher.HashPassword("Admin1234!"),
+                    Status = true,
+                    UserProfile = new UserProfile
+                    {
+                        Id = profileId,
+                        UserId = userId,
+                        ProfilePicture = string.Empty,
+                        Phone = string.Empty
+                    },
+                    UserEmail =  new UserEmail
+                    {
+                        Id = emailId,
+                        UserId = userId,
+                        EmailVerified = true,
+                        EmailVerificationToken = null,
+                        EmailVerficationTokenExpity = null
+                    },
+                    UserRoles =
+                    {
+                        new UserRole
+                        {
+                            Id = userRoleId,
+                            UserId = userId,
+                            RoleId = adminRole.Id
+                        }
+                    }
+                };
+                await context.Users.AddAsync(adminUser);
+                await context.SaveChangesAsync();
+            }
+        }
+    }
+
+}
