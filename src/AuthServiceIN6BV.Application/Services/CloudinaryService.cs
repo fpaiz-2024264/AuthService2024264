@@ -39,7 +39,7 @@ public class CloudinaryService(IConfiguration configuration) : ICloudinaryServic
 
             return $"v{uploadResult.Version}/{uploadResult.PublicId}.{uploadResult.Format}";
         }
-        catch (Exception ex)
+        catch (System.Exception ex)
         {
             throw new InvalidOperationException($"Failed to upload image to Cloudinary: {ex.Message}", ex);
         }

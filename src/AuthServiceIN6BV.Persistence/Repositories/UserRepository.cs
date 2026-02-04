@@ -53,7 +53,7 @@ public class UserRepository(ApplicationDbContext context) : IUserRepository
                 .ThenInclude(ur => ur.Role)
             .FirstOrDefaultAsync(u => u.UserEmail != null && 
                                     u.UserEmail.EmailVerificationToken == token &&
-                                    u.UserEmail.EmailVerficationTokenExpity > DateTime.UtcNow);
+                                    u.UserEmail.EmailVerificationTokenExpiry > DateTime.UtcNow);
     }
 
     public async Task<User?> GetByPasswordResetTokenAsync(string token)

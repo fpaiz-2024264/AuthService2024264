@@ -16,7 +16,7 @@ public class UserEmail
 
     public string? EmailVerificationToken {get; set;}
 
-    public DateTime? EmailVerficationTokenExpity {get; set;}
+    public DateTime? EmailVerificationTokenExpiry {get; set;}
 
     [Required]
     public User User {get; set;} = null!;

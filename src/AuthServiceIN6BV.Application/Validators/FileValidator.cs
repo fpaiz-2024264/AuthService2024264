@@ -2,7 +2,7 @@ using AuthServiceIN6BV.Application.Interfaces;
  
 namespace AuthServiceIN6BV.Application.Validators;
  
-public static class FileValidators
+public static class FileValidator
 {
     private static readonly string[] AllowedImageExtensions = [".jpg", ".jpeg", ".png", ".webp"];
  

@@ -124,14 +124,14 @@ namespace AuthServiceIN6BV.Persistence.Migrations
                         .HasColumnType("character varying(16)")
                         .HasColumnName("id");
 
-                    b.Property<DateTime?>("EmailVerficationTokenExpity")
-                        .HasColumnType("timestamp with time zone")
-                        .HasColumnName("email_verfication_token_expity");
-
                     b.Property<string>("EmailVerificationToken")
                         .HasMaxLength(256)
                         .HasColumnType("character varying(256)")
                         .HasColumnName("email_verification_token");
+
+                    b.Property<DateTime?>("EmailVerificationTokenExpiry")
+                        .HasColumnType("timestamp with time zone")
+                        .HasColumnName("email_verification_token_expiry");
 
                     b.Property<bool>("EmailVerified")
                         .ValueGeneratedOnAdd()

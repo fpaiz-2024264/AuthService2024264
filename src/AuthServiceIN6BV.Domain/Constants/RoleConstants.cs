@@ -1,7 +1,7 @@
 
 namespace AuthServiceIN6BV.Domain.Constants;
 
-public static class RoleContstants
+public static class RoleConstants
 {
     public const string ADMIN_ROLE = "ADMIN_ROLE";
     public const string USER_ROLE = "USER_ROLE";

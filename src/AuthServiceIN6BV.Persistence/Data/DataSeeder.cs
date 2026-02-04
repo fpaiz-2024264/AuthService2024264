@@ -18,12 +18,12 @@ public static class DataSeeder
                 new()
                 {
                     Id = UuidGenerator.GenerateRoleId(),
-                        Name = RoleContstants.ADMIN_ROLE
+                        Name = RoleConstants.ADMIN_ROLE
                 },
                 new()
                 {
                     Id = UuidGenerator.GenerateRoleId(),
-                        Name = RoleContstants.USER_ROLE
+                        Name = RoleConstants.USER_ROLE
                 }
             };
             await context.Roles.AddRangeAsync(roles);
@@ -33,7 +33,7 @@ public static class DataSeeder
         //Usuario por defecto
         if (!await context.Users.AnyAsync())
         {
-            var adminRole = await context.Roles.FirstOrDefaultAsync(r => r.Name == RoleContstants.ADMIN_ROLE);
+            var adminRole = await context.Roles.FirstOrDefaultAsync(r => r.Name == RoleConstants.ADMIN_ROLE);
             if(adminRole != null)
             {
                 var passwordHasher = new PasswordHashService();
@@ -64,7 +64,7 @@ public static class DataSeeder
                         UserId = userId,
                         EmailVerified = true,
                         EmailVerificationToken = null,
-                        EmailVerficationTokenExpity = null
+                        EmailVerificationTokenExpiry = null
                     },
                     UserRoles =
                     {
